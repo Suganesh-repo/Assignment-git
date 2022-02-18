@@ -1,1 +1,1 @@
-console.log("Assignment")
+console.log("Assignment");
